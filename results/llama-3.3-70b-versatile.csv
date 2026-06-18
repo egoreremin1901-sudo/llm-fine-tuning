@@ -1,0 +1,209 @@
+dialogue,summary,lora_pred,faithfulness,relevance,completeness,fluency,overall,comment
+"#Person1#: Hi, Tim. I was wondering if you'd like to drive me to the station tomorrow morning?
+#Person2#: I would be happy to drive you there. When do you need to go?
+#Person1#: I should get to the station an hour in advance. So I need to leave my house at 7:30.
+#Person2#: Do you have a lot of luggage?
+#Person1#: No, only one large bag and two small bags.
+#Person2#: I see, I'll take my smaller car then. Where will you leave for? Beijing, Tianjin or Guangzhou?
+#Person1#: I am going to Beijing first. Three days later I will fly to Shenzhen.
+#Person2#: Will I be able to enter the waiting room with you?
+#Person1#: I'm afraid not. You should probably just see me off at the entrance.
+#Person2#: I see. Oh, by the way, would you mind giving me a call tomorrow morning in case I forget?
+#Person1#: No problem. I will call you at 7:00 o'clock.
+#Person2#: When will you come back from Shenzhen?
+#Person1#: I will come back next Tuesday. Exactly a week later.
+#Person2#: In that case, I think I can pick you up when you come back.
+#Person1#: OK. Thank you very much.
+#Person2#: You are welcome.","#Person1# asks Tim whether Tim could drive #Person1# to the station tomorrow morning. Tim agrees and takes his smaller car. Also, he will pick #Person1# up when #Person1# comes back.",Tim invites #Person1# to drive him to the station tomorrow morning. They decide to take a smaller car and they will meet at the entrance tomorrow morning.,2,4,3,5,3,"The model summary contains hallucinations, such as Tim inviting Person1 to drive, which is the opposite of the original dialogue. However, it captures some important information and is grammatically clear."
+"#Person1#: Hello, E-shop. What can I do for you?
+#Person2#: I've just received your catalog and I'd like to inquire about something in it.
+#Person1#: Yes, ma'am. What's the product number?
+#Person2#: SP 506.
+#Person1#: Let me see. Here we are. It's our latest model of electronic dictionary.
+#Person2#: How many dictionaries does it contain?
+#Person1#: It contains a total of 6 dictionaries with different functions and an encyclopedia. You can also download updated materials from our website.
+#Person2#: Good. I want one of those. And the prices is?
+#Person1#: It's 500 UN, and you will also receive a memory stick for free.
+#Person2#: That sounds great. When can I get it?
+#Person1#: Within 2 days on November fifteenth.
+#Person2#: Can I pay by credit card?
+#Person1#: Of course. I have to mention that we charge 20 UN for the delivery.
+#Person2#: Alright.",#Person2# inquiries about an electronic dictionary containing 6 dictionaries and an encyclopedia from E-shop and #Person1# is assisting #Person2# in ordering it.,E-shop asks #Person2# to check out the latest model of electronic dictionary. #Person2# wants one of them and pays by credit card within two days.,2,4,3,4,3,"The model summary contains some inaccuracies, such as E-shop asking Person2 to check out the dictionary, when in fact Person2 inquired about it, and it misses some details like the price and the free memory stick."
+"#Person1#: Hello, this is the International Youth Hotel. How can I help you?
+#Person2#: oh, yes. I want to check whether you still have any vacancies. I need three single rooms for next Monday.
+#Person1#: ok. There're vacancies. Since the peak season is coming, it's advisable to book soon. Would you like to make a reservation now?
+#Person2#: yes, please. Do you take credit cards?
+#Person1#: yes, we accept all major credit cards.
+#Person2#: and how about Internet access?
+#Person1#: there's free Internet access in the lobby.
+#Person2#: is it available in the rooms?
+#Person1#: Unfortunately not.
+#Person2#: that's OK. Is breakfast included?
+#Person1#: yes, breakfast is included and parking is available.
+#Person2#: fantastic. Thank you very much.
+#Person1#: you're welcome. And we have 24 hour reception. Please don't hesitate to call anytime if you have any further questions.",#Person2# calls #Person1# to book three single rooms using credit cards.,#Person2# wants to book three single rooms for next Monday. #Person1# helps #Person2# book online with free internet access but doesn't include breakfast or parking.,2,4,3,5,3,"The model summary contains hallucinations, such as booking online and incorrect information about breakfast and parking, but captures the main point of the dialogue."
+"#Person1#: What can I get you?
+#Person2#: A cheeseburger and an order of french fries would be great.
+#Person1#: Would you like anything to drink?
+#Person2#: I feel like having a Coke.
+#Person1#: That's a good idea. I think I'll join you.",#Person1# helps #Person2# order food.,"#Person2# orders a cheeseburger, French fries, and a Coke with #Person1#.",5,5,5,5,5,"The model summary accurately captures the main points of the dialogue, including the food and drink ordered, and is grammatically clear."
+"#Person1#: Good morning, everyone. Let me introduce myself to you...
+#Person2#: You don't need to introduce yourself, Yang. You're famous.
+#Person1#: Well, thank you very much but I thought l'd try and chair the meeting by the rule, at least for a while.
+#Person2#: OK, OK!
+#Person1#: Now, I'd like to get things under way. The main topic on today's agenda is the development of a U. S. sales strategy for the new EBB. I'd like to hear all of your ideas, Mr. Wall, you seem in top form today. Could you start the ball rolling?
+#Person2#: Uh, oh, sure. Well, I think we should keep in mind that the key to good sales is advertising.
+#Person1#: Well, that's kind of obvious.
+#Person2#: Give me a break, Mr. Yang.
+#Person1#: Uh, let's keep this going, shall we?",Mr. Yang chairs the meeting by the rule. He introduces himself first and then asks people to share their ideas about the development of a U.S. sales strategy.,Yang introduces himself to #Person1# and asks #Person1# to share his ideas about the development of a U.S. sales strategy for the new EBB.,2,4,3,4,3,"The model summary contains a hallucination, incorrectly stating that Yang introduces himself to #Person1#, when in fact he introduces himself to everyone, and also incorrectly states that he asks #Person1# to share his ideas, when in fact he asks Mr. Wall to start."
+"#Person1#: are you a blogger?
+#Person2#: sure I am. I've been writing a blog for almost three years.
+#Person1#: oh, it seems that I'm the only one who never blogs. When did you get started?
+#Person2#: I began blogging when I first went to the US for my graduate strides.
+#Person1#: what do you usually write about?
+#Person2#: at first, I'll write about my life there. Like interesting things on the campus, travel stories, special English words that I come across. Sometimes, I'll post my pictures on my blog so my family an
+#Person1#: that's interesting. How often do you write a blog?
+#Person2#: it's random. If there happen to be a lot of things going on, I may add several new entries in a week, and if I've got nothing to share, I may leave my blog untouched for weeks.
+#Person1#: got it. Are you still updating your blog?
+#Person2#: sure, since I came back from the US, I've been keeping the habit of blogging, simply to share my personal insights on any topic I like.
+#Person1#: good for you. I know many people just leave their blogs alone after the first few months.","#Person1# asks #Person2#, who has been writing a blog for almost three years, about blogging. #Person2# has begun blogging about interesting graduate school life in the U.S. randomly since #Person2# came back from the U.S.",#Person2# is a blogger and #Person2# tells #Person1# #Person2#'s blog has been updated by #Person2#.,2,2,2,3,2,summary lacks detail and does not capture the full context of the dialogue
+"#Person1#: Wow! Your fruit looks really fresh! How much are these apples?
+#Person2#: The apples are 30NT each. How many would you like?
+#Person1#: Let's see, 30NT is about... almost a dollar US. What?! How about these pineapples?
+#Person2#: They're 250NT each, but they're not edible. They're only used for worship.
+#Person1#: Hmm, 250NT is... 8 dollars?! ! And you can't even eat them? You're crazy!
+#Person2#: Wait! Don't go just yet. These bananas are pretty cheap--only 35NT for this bunch.
+#Person1#: Now that's more like it! Bananas have lots of potassium, too!
+#Person2#: They're also good for your digestion! Would you like some kiwis, too?
+#Person1#: Are they from Taiwan?
+#Person2#: They're imported from New Zealand. Four for 50NT. Nine for a hundred.
+#Person1#: OK. I'll take four kiwis.",#Person1# will take some bananas and four imported kiwis while #Person1# thinks apples and pineapples are too expensive.,#Person1# and #Person2# are buying fruits. #Person1# buys 4 kiwis from Taiwan at 9 NT per kilo.,2,4,3,4,3,"The model summary contains hallucinations, such as the origin of the kiwis and the price per kilo, but captures some important information about the purchase."
+"#Person1#: Good afternoon!
+#Person2#: Good afternoon! Sit down, please. How are you?
+#Person1#: I'm very well, thank you. How are you?
+#Person2#: Very well too, thank you very much. Isn ' t it a lovely day?
+#Person1#: Yes, it's beautiful, but it's also very hot.
+#Person2#: Yes.
+#Person1#: What's the weather like in your country?
+#Person2#: Mm... It's quite warm now.
+#Person1#: Where do you live?
+#Person2#: In London. Where do you live?
+#Person1#: Here. Near this school.",#Person1# meets #Person2# on a lovely day. It's quite warm now in London where #Person2# lives.,#Person1# and #Person2# talk about their weather and where they live.,4,4,3,5,4,"The model summary is mostly faithful and relevant, but lacks specific details about the location and the weather, and is very brief."
+"#Person1#: Good afternoon, ABC Incorporated. How many I direct your call?
+#Person2#: I would like to speak to Mr. Miles.
+#Person1#: I am sorry, sir. He isn't in right now. Would you like to leave a message?
+#Person2#: Yes. Can you tell him Bob White called?
+#Person1#: And your company name, please.
+#Person2#: He knows who I am.
+#Person1#: Is there a telephone number where you can be reached?
+#Person2#: I can be reached at 544-879-9087 until 5 p. m. today.
+#Person1#: Thank you, sir. I'll tell him you called.
+#Person2#: Thank you.",Bob White asks #Person1# to tell Mr. Miles to call him back before 5 p. m. today.,Mr. Miles calls #Person1# and tells #Person1# he's not in right now. #Person1# will tell him Mr. White called.,1,2,2,4,2,"The model summary contains hallucinations and does not accurately capture the dialogue, but is grammatically clear."
+"#Person1#: Hello, I am Mr. Johnson at room 309. I would like to have a safe box. Do I need to pay for a safe box?
+#Person2#: No, you don't. Just fill out this card and sign your name and room number on it.
+#Person1#: Here you are. Can I have a larger envelope to put my valuable things in it?
+#Person2#: Yes, will this do?
+#Person1#: Yes, it's perfect.
+#Person2#: Wait a minute. This is your safe box key, don't lose it. You'll have to pay two thousand yuan if you lose the key.
+#Person1#: OK, I won't.",#Person2# gives Mr. Johnson a safe box and a larger envelope. He will be fined if losing the safe box key.,Mr. Johnson wants to buy a safe box with #Person2#'s assistance.,2,2,2,4,2,"The model summary contains inaccuracies, such as stating Mr. Johnson wants to buy a safe box, when in fact it is provided for free."
+"#Person1#: Hello!
+#Person2#: Hello, Debbie. This is Donald.
+#Person1#: Oh, hi, Donald.
+#Person2#: What happened yesterday? You forgot our date, didn't you?
+#Person1#: Well, it rained hard all day and I had a bad cold, so I decided to stay home.
+#Person2#: You did? But I tried to call you at least twenty times and nobody answered.
+#Person1#: Oh, the telephone lines were damaged by the storm. They repaired them yesterday.
+#Person2#: What did David do yesterday? Did he and Judy go dancing?
+#Person1#: No, they stayed home and played cards with the children.
+#Person2#: And what did you do? Did you play cards, too?
+#Person1#: No. I listened to records and studied, what did you do yesterday, Donald?
+#Person2#: I just told you, Debbie. I tried to call you twenty times!","Donald called Debbie yesterday, but Debbie missed them because the telephone lines were damaged. Debbie listened to records and studied when David and Jucy played cards with children.",Debbie tells Donald she got a bad cold because of the rain and she couldn't answer his calls.,4,4,2,5,3,"The model summary is mostly faithful and relevant, but it lacks completeness and does not capture the main points of the dialogue, such as the damaged telephone lines and the activities of David and Judy."
+"#Person1#: Did you go to the concert last weekend?
+#Person2#: No, I didn't. And you? Was it good?
+#Person1#: Yes, I did. I enjoyed it a lot. There was a folk singer, a violinist and a pianist.
+#Person2#: How much was the ticket?
+#Person1#: I only paid two dollars for mine.",#Person1# went to a great concert.,#Person1# tells #Person2# about the concert they went to last weekend.,5,4,3,5,4,"The model summary is faithful to the dialogue, relevant, and fluent, but lacks completeness compared to the reference summary."
+"#Person1#: Have you noticed the Mexican restaurant on the other side of this street?
+#Person2#: You mean the one with the yellow bricks? But last time I saw it, it wasn't really in business yet. I saw some people inside furnishing the rooms. Is it open now?
+#Person1#: Yes, someone give me a pamphlet introducing the restaurant and its business hours when I passed by this morning. So, let's have a try. My treat.
+#Person2#: Great, I like the idea of trying some new food.
+#Person1#: Good for you. Today we have more chances to try some new food because there are now many new form restaurants in our city coming from places all over the world.
+#Person2#: Also some traditional Chinese food, like noodles and dumpling are marketed in modern ways with improved food quality. I heard this year, the government has imposed very stringent inspection on the hygiene conditions restaurants and suppliers of food are also under tighter control.
+#Person1#: For sure all the customers will benefit from this.",#Person1# invites #Person2# to go to the Mexican restaurant to try some new food. They think customers will benefit from the stringent inspection imposed by the government.,#Person1# invites #Person2# to try the Mexican restaurant on the other side of the street. They both think it is good.,4,4,3,5,4,"The model summary is mostly faithful to the dialogue, but it misses the important point about the government's stringent inspection and its benefits to customers."
+"#Person1#: Did you read the news that'China's property prices rose at the fastest pace in 18 months in December, ending the year with rising fears of bubbles in the property market'?
+#Person2#: No. Does the newspaper say what has caused that?
+#Person1#: Yes. It says the hike was a result of purchase rush in the fourth quarter on expectations of tightening politics.
+#Person2#: I think the government should make a serves of moves to cool the market.
+#Person1#: Right. The climbing property prices has become a headache for Chinese residents.",#Person1# tells #Person2# China's property rose fast because of the purchase rush. #Person2# thinks the government should cool the market.,#Person1# and #Person2# talk about the rise of property prices in China.,4,4,3,5,4,"The model summary is mostly faithful and relevant, but lacks completeness and specific details from the dialogue."
+"#Person1#: do you have internet in your room?
+#Person2#: sure, I am a total internet junkie, I can't survive without internet.
+#Person1#: really? What do you usually do online?
+#Person2#: well, there are a lot of things, like reading news, email, shopping, etc. but mostly I chat online. You could say I'm addicted to online chatting.
+#Person1#: I never chatted online before. What's it like.
+#Person2#: well, basically it's similar to face-to-face chat, but you type instead of talk. You should try it at least once.
+#Person1#: really? Who do you chat with?
+#Person2#: to people all over the world! I have a lot of net pals. See, the magic of internet is that it connects people from all over the world. You can chat with someone thousands of miles away as if they were
+#Person1#: that's amazing. I will install an online messenger program when I get home.
+#Person2#: well, my suggestion for a newbie like you is that don't get lost in the cyberspace. You know internet won't do the filtration for you, so you still need to use your judgement. There are a lot of per
+#Person1#: don't worry.",#Person2# tells #Person1# that #Person2#'s addicted to chatting with people all over the world online. #Person2# suggests #Person1# using #Person1#'s judgment and don't get lost in the cyberspace.,#Person2# tells #Person1# #Person2# is a total internet junkie and chats online. #Person2# recommends not getting lost in the cyber space.,4,5,4,5,4,"The model summary accurately captures the main points of the dialogue, but misses some details, such as Person2's addiction to online chatting and the suggestion to use judgment."
+"#Person1#: Isn't this great? I always wanted to own a farm, live out in the country, grow my own food!
+#Person2#: This is very beautiful. Though I have to confess, I don't know the first thing about farming!
+#Person1#: That's fine! Don't worry about it!
+#Person2#: What was that?
+#Person1#: Relax, it was just a goat!
+#Person2#: And that?
+#Person1#: It's just the cows that are grazing over there. We can milk them later.
+#Person2#: What was that?
+#Person1#: Honey, seriously, It's just a sheep. Relax!
+#Person2#: Relax, that was just the horses and donkeys that are in the stable.
+#Person1#: You know what? I don't think I can hack it here out in the countryside. I'm going back to the city!",#Person1# always wanted to own a farm but #Person2# doesn't know much about it. #Person1# shows poultry to #Person2# who wants to return to the city.,#Person1# wants to own a farm but #Person2# doesn't know how to farm. They talk about their farms and then they decide to go back to the city.,4,4,3,5,4,"The model summary is mostly faithful to the dialogue, but it incorrectly states that they decide to go back to the city together, when in fact it is only #Person1# who wants to return to the city."
+"#Person1#: Hi, David! What are you doing?
+#Person2#: Oh, just looking at these club notices. I'm thinking of joining one. Hey-why don't we join a club together? How about the Tennis Club?
+#Person1#: Actually, I'm not good at tennis at all. . .
+#Person2#: Neither am I. It's just that the best-looking girls are in that club.
+#Person1#: Oh, come on. That's no reason to do something you're not interested in.
+#Person2#: Well. . . What are you interested in?
+#Person1#: How about the Classical Music Club?
+#Person2#: Joanna, give me a break.
+#Person1#: Hey-how about the Cinema Club?
+#Person2#: Sounds OK to me. I like movies. Hey, Joanna, look - there are a lot of decent-looking guys here. And the club jackets - they're really hot! I think we made the right choice!",David and Joanna aren't good at tennis but David wants to join the Tennis Club because of the best-looking girls. They will join the Cinema Club.,Joanna and David both want to join clubs but Joanna thinks she should choose the Classical Music Club because it is the best-looking girl in the club.,2,3,2,4,2,"The model summary contains hallucinations and does not accurately capture the dialogue, but is grammatically clear."
+"#Person1#: What are you doing tonight?
+#Person2#: I have to run to the grocery store.
+#Person1#: Don't you hate fighting the crowds on the weekends?
+#Person2#: Yes, but I am out of food and milk.
+#Person1#: What store do you shop at?
+#Person2#: The small one, just down the street. I like their generic brand.
+#Person1#: I have been using the store across town for years.
+#Person2#: I hear they have very nice stuff.
+#Person1#: They do, but they're a little expensive on certain items.
+#Person2#: Well, you should try my store. The prices are good.
+#Person1#: I will sometime. Thanks for the advice.",#Person2# will go to the grocery store. #Person2# suggests #Person1# trying #Person2#'s store with good prices.,#Person2# has to run to the grocery store because #Person2# is out of food and milk. #Person1# recommends #Person2#'s store.,2,4,3,4,3,"The model summary contains a hallucination, incorrectly stating that #Person1# recommends #Person2#'s store, when in fact #Person2# recommends their own store to #Person1#."
+"#Person1#: I know that you are interested in our washers.
+#Person2#: Yes, we are thinking of placing an order. However we would like to know what kinds of machines are available for export and in addition your sales terms, including mode of payment, discount and possible date of delivery.
+#Person1#: We supply washers of all types and sizes. We have years of experience in the manufacture of washers.
+#Person2#: We have read about this in your sales literature. Could you give us some idea of your prices?
+#Person1#: Our prices compare favorably with those offered by other manufactures either in Europe or anywhere else. Here are our latest price lists. You will see that our prices are very attractive.
+#Person2#: Do you take special orders? That is, do you make machines according to the specific requirements from clients?
+#Person1#: Sure, we do.
+#Person2#: How long does it usually take you to make delivery?
+#Person1#: As a rule, we deliver all our orders within three months after receipt of relevant L / C. It takes longer, of course, for special orders. In no case would it take longer than six months.
+#Person2#: Good. One more thing, we'd like you to quote us on CIF basis.
+#Person1#: Okay. No problem.",#Person2# is interested in #Person1#'s washers. #Person1# tells #Person2# that they supply washers of all types and sizes with favorable prices. And they take deliver orders within three months or special orders within six months.,"#Person1# introduces #Person1#'s washing machine to #Person2#. #Person2# asks about the prices, the time of delivery, and the CIF basis.",2,3,2,4,3,"The model summary contains some inaccuracies, such as referring to a washing machine instead of washers, and it does not capture all the main points from the dialogue."
+"#Person1#: Could you introduce some whitening products for me?
+#Person2#: Please forgive me just being frankly, madam. You don't need whitening products because you look pretty white. But you have freckles on your face.
+#Person1#: Then what kind of product can fade freckles?
+#Person2#: I recommend Nisei products. This brand has a face cream which is effective on fading freckles.
+#Person1#: How much is it?
+#Person2#: 419 yuan.
+#Person1#: It is too expensive for me. Do you have something cheaper?
+#Person2#: I'm afraid there isn't.",#Person2# thinks #Person1# needs freckles-fading products instead of whitening products but #Person1# thinks they're too expensive.,#Person2# recommends Nisei products to #Person1# who wants to fade freckles but they are expensive.,5,5,4,5,5,"The model summary accurately captures the main points of the dialogue, including the recommendation of Nisei products and the issue of expense, with no hallucinations and clear grammar."
+"#Person1#: Good afternoon, Mr. Chen. How are you?
+#Person2#: Fine, thanks. I will go to Mainland China for a business trip tomorrow, and I want to change some Hong Kong dollars into Renminbi.
+#Person1#: How much do you want, Mr. Chen?
+#Person2#: One thousand yuan, please. By the way, what is today's exchange quotation?
+#Person1#: The rate is still high for other foreign currencies. The exchange rate for Hong Kong dollars into Renminbi is 1. 053 Renminbi yuan to one dollar.
+#Person2#: Oh, I see. Could you please split the one thousand Renminbi into hundreds and tens?
+#Person1#: Certainly, sir. How do you want it?
+#Person2#: Five hundred in hundred RMB notes and the others in ten RMB notes, please.
+#Person1#: Yes, Mr. Chen. Here you are.
+#Person2#: Thank you very much.",#Person1# helps Mr. Chen change some Hong Kong dollars into one thousand Renminbi.,Mr. Chen wants to change some Hong Kong dollars into Renminbi. #Person1# helps him with the calculation.,4,5,3,5,4,"The model summary is mostly faithful and relevant, but it does not capture the specific amount of Renminbi and the exchange rate details."

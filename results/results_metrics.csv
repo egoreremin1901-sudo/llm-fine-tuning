@@ -1,0 +1,4 @@
+experiment_name,model,notes,rouge1,rouge2,rougeL,rougeLsum,bleu
+baseline_first_last,rule_based,first replica + last replica,0.2463348113372236,0.063733241778233,0.1994437502590892,0.1994645070442598,0.0829947678534953
+llm_qwen25_05b_zero_shot,Qwen/Qwen2.5-0.5B-Instruct,"zero-shot summarization with prompt, no fine-tuning",0.3055694180268019,0.084588597091877,0.2254349994920078,0.2245777002429588,0.0791862919683802
+llm_qwen25_05b_finetuned_lora,Qwen/Qwen2.5-0.5B-Instruct + LoRA,fine-tuned with LoRA on dialogue summarization dataset,0.4151831003506948,0.1741854442438552,0.3416204770697716,0.3427912031741746,0.205868577466252
